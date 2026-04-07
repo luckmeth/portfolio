@@ -162,7 +162,7 @@ const HeroSection: React.FC = () => {
               {/* Main photo container */}
               <div className="relative w-72 h-72 md:w-96 md:h-96 rounded-2xl overflow-hidden border border-white/10 hover:border-red-500/50 transition-all duration-500 group">
                 <img
-                  src="/Screenshot 2026-03-18 130554.png"
+                  src="/myphoto.png"
                   alt="Methul Jayasuriya"
                   className="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-110"
                 />

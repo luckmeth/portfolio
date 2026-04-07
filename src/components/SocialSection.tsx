@@ -97,7 +97,7 @@ const SocialSection: React.FC = () => {
             My personal brand dedicated to creating exceptional digital experiences through innovative web development and thoughtful design.
           </p>
           <div className="flex justify-center gap-4">
-            <a href="#projects" className="px-7 py-3 bg-red-500 hover:bg-red-600 text-white rounded-xl font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-red-500/25 hover:-translate-y-0.5">
+            <a href="https://slashdev.online/" className="px-7 py-3 bg-red-500 hover:bg-red-600 text-white rounded-xl font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-red-500/25 hover:-translate-y-0.5">
               View Work
             </a>
             <a href="#contact" className="px-7 py-3 border border-white/20 text-white hover:border-red-500/50 hover:bg-white/5 rounded-xl font-semibold transition-all duration-300">
